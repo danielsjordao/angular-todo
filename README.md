@@ -1,3 +1,8 @@
+#Demo Angular ToDo List
+
+https://user-images.githubusercontent.com/101356855/209579072-348eb626-adf3-44be-967e-73ef71cc3e4a.mp4
+
+
 # AppTodo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
