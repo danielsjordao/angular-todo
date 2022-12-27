@@ -1,7 +1,9 @@
-#Demo Angular ToDo List
+# Demo Angular ToDo List
 
 https://user-images.githubusercontent.com/101356855/209579072-348eb626-adf3-44be-967e-73ef71cc3e4a.mp4
 
+# Figma
+https://www.figma.com/file/kW5s9FBjkXWXgTXo5fBjnA/My-Todo-List-(Copy)?node-id=4%3A2&t=KfDiCKIysQMaqnJV-0
 
 # AppTodo
 
