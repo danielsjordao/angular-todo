@@ -9,7 +9,7 @@ danielsjordao.github.io/angular-todo/
 # Figma
 https://www.figma.com/file/kW5s9FBjkXWXgTXo5fBjnA/My-Todo-List-(Copy)?node-id=4%3A2&t=KfDiCKIysQMaqnJV-0
 
-# AppTodo
+# Angular Version
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
 
