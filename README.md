@@ -4,11 +4,36 @@ https://user-images.githubusercontent.com/101356855/209579072-348eb626-adf3-44be
 
 # Imagem ToDo List
 
+![image](https://user-images.githubusercontent.com/101356855/210990700-0cceaceb-71a6-47c2-9a97-035be71f06eb.png)
+
 # Inserindo Tasks
+
+![image](https://user-images.githubusercontent.com/101356855/210990998-6a6f68fa-eff3-4165-9fbc-7cda5e4e060a.png)
 
 # Alterando Task
 
+![image](https://user-images.githubusercontent.com/101356855/210991621-aeeb85a4-25f2-4613-8785-5642f132be79.png)
+![image](https://user-images.githubusercontent.com/101356855/210991883-ed419212-f6da-42e7-85ee-6f35ee799603.png)
+
+# Check em Tasks
+
+Quando é realizada a ação de dar um checked, se a Task estiver acima quando é inserido check ela é enviado para baixo
+
+![image](https://user-images.githubusercontent.com/101356855/210992847-e3772269-6eb6-4d39-90c5-03684f1c8935.png)
+
 # Excluindo Task
+
+Há duas formas de excluir as Tasks, pelo ícone lateral "lixeira", assim a Task é excluída de forma individual ou pelo botão "Deletar Tudo"(Obs. Este botão só aparece quando há Tasks e fica inibido quando não há)
+
+![image](https://user-images.githubusercontent.com/101356855/210994232-f7c6c573-6228-4ed8-bef1-e6124538d582.png)
+
+Ao optar por "Deletar Tudo" abre uma popup questionando se deseja realmente deletar tudo.
+
+![image](https://user-images.githubusercontent.com/101356855/210994805-4e2a82b0-5f27-4bd3-b0fc-5cec74db5b22.png)
+
+Ao clicar o ToDo List é limpo
+
+![image](https://user-images.githubusercontent.com/101356855/210995225-6d3585b5-bbd6-445a-af93-be70b8925f1f.png)
 
 # Deploy Angular ToDo List
 
