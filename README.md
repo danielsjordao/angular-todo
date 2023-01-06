@@ -2,7 +2,7 @@
 
 https://user-images.githubusercontent.com/101356855/209579072-348eb626-adf3-44be-967e-73ef71cc3e4a.mp4
 
-# Imagem ToDo List
+# Imagem Inicial do Angular ToDo List
 
 ![image](https://user-images.githubusercontent.com/101356855/210990700-0cceaceb-71a6-47c2-9a97-035be71f06eb.png)
 
