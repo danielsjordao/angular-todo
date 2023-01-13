@@ -4,6 +4,8 @@ https://user-images.githubusercontent.com/101356855/209579072-348eb626-adf3-44be
 
 # Imagem Inicial do Angular ToDo List
 
+Na imagem inicial do Angular ToDo List não aparece o botão deletar, só será demonstrado quando inserir alguma task.
+
 ![image](https://user-images.githubusercontent.com/101356855/210990700-0cceaceb-71a6-47c2-9a97-035be71f06eb.png)
 
 # Inserindo Tasks
