@@ -13,6 +13,7 @@ Na imagem inicial do Angular ToDo List não aparece o botão deletar, só será 
 ![image](https://user-images.githubusercontent.com/101356855/210990998-6a6f68fa-eff3-4165-9fbc-7cda5e4e060a.png)
 
 # Alterando Task
+Ao alterar uma Task, ou seja, deletar a informação nela inserida anteriormente, abrirá um popup questionado o usuário sobre a alteração.
 
 ![image](https://user-images.githubusercontent.com/101356855/210991621-aeeb85a4-25f2-4613-8785-5642f132be79.png)
 ![image](https://user-images.githubusercontent.com/101356855/210991883-ed419212-f6da-42e7-85ee-6f35ee799603.png)
