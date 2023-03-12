@@ -1,3 +1,7 @@
+# Projeto
+
+O projeto tem por objetivo o desenvolvimento de habilidades no framework Angular utilizando as linguagens TypeScript, Html e SCSS.
+
 # Deploy Angular ToDo List
 
 https://danielsjordao.github.io/angular-todo/
